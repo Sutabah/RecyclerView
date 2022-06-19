@@ -20,3 +20,14 @@
 
 # Menambahkan Dependencies Recyclerview pada build gradle 
 ![image](https://user-images.githubusercontent.com/81844622/174470123-690be95e-62f7-4939-a4a0-59e5dcf094e1.png)
+
+
+# Menambahkan komponen recyclerview di activity_main
+![image](https://user-images.githubusercontent.com/81844622/174470312-321c4052-4777-4a27-819e-a528047f6610.png)
+
+
+# Membuat class data pemain di package model
+![image](https://user-images.githubusercontent.com/81844622/174470399-d394a61f-a8a2-4375-b1c8-a56967f42a92.png)
+
+
+#
