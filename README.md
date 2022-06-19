@@ -38,3 +38,7 @@
 
 # Mendesign class Adapterteambola 
 ![image](https://user-images.githubusercontent.com/81844622/174470861-1b15f4bf-874c-4b32-a339-975a99a15ce9.png)
+
+
+# Mengaktifkan viewbinding
+![image](https://user-images.githubusercontent.com/81844622/174471108-e3d8ceea-0ad7-4d50-9055-100f1d9ccd85.png)
