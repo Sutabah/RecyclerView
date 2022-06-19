@@ -50,3 +50,7 @@
 
 # Mengisi Onbindviewholder 
 ![image](https://user-images.githubusercontent.com/81844622/174471650-d2f13aac-6159-429a-bd19-1eb10a96c676.png)
+
+
+# Menambahkan Implement interface  di class adapter Recyclerview dan menambahkan construct di on bind view holder
+![image](https://user-images.githubusercontent.com/81844622/174472230-7aac45a9-21ce-4568-876e-e53d9a4ee1f4.png)
