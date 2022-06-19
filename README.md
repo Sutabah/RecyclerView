@@ -29,5 +29,8 @@
 # Membuat class data pemain di package model
 ![image](https://user-images.githubusercontent.com/81844622/174470399-d394a61f-a8a2-4375-b1c8-a56967f42a92.png)
 
+![image](https://user-images.githubusercontent.com/81844622/174470485-787cdf75-859c-4b81-8205-35e244713852.png)
 
-#
+
+# Membuat package adapter baru lalu buat kotlin class baru Adapter team bola
+![image](https://user-images.githubusercontent.com/81844622/174470558-6f86ef6d-a97a-4ec2-85fc-0613c6c5d652.png)
