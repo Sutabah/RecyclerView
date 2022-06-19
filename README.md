@@ -42,3 +42,11 @@
 
 # Mengaktifkan viewbinding
 ![image](https://user-images.githubusercontent.com/81844622/174471108-e3d8ceea-0ad7-4d50-9055-100f1d9ccd85.png)
+
+
+# Mengisi Methode Oncreateviewholder dan mengganti constuctor class pada view holder
+![image](https://user-images.githubusercontent.com/81844622/174471500-1b97cd82-6ddc-463a-93c0-4767e3a68762.png)
+
+
+# Mengisi Onbindviewholder 
+![image](https://user-images.githubusercontent.com/81844622/174471650-d2f13aac-6159-429a-bd19-1eb10a96c676.png)
