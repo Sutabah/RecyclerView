@@ -34,3 +34,7 @@
 
 # Membuat package adapter baru lalu buat kotlin class baru Adapter team bola
 ![image](https://user-images.githubusercontent.com/81844622/174470558-6f86ef6d-a97a-4ec2-85fc-0613c6c5d652.png)
+
+
+# Mendesign class Adapterteambola 
+![image](https://user-images.githubusercontent.com/81844622/174470861-1b15f4bf-874c-4b32-a339-975a99a15ce9.png)
